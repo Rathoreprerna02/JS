@@ -8,6 +8,8 @@ accountCity ="Malegaon"
 accountEmail ="aws@aws.com"
 accountPassword ="112233"
 accountCity ="Nandgaon"
+accountCity ="Malegaon"
+
 
 console.log(accountId);
 console.table([accountEmail, accountPassword, accountCity])
