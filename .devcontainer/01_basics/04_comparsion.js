@@ -19,6 +19,7 @@ console.log(undefined == 0); // equality check works differently
 console.log(undefined >  0);
 console.log(undefined < 0);
 
+// here every operation works differently
 // ===
 
 console.log("2" === 2);
