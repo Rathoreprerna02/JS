@@ -77,8 +77,8 @@ const{courseIntstructor} = course
 //    " price": "free"
 // }
 
-[
-    {},
-    {},
-    {},
-]
+// [
+//     {},
+//     {},
+//     {},
+// ]
