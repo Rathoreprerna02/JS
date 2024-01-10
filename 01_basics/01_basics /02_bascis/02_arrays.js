@@ -9,7 +9,7 @@ const marvel_heros =["thor", "ironman", "spiderman"]
 
 const all_new_characters = [...cartoons_characters, ...marvel_heros] // merging of arrays
 
-// console.log(all_new_characters);
+console.log(all_new_characters);
 
 const another_array =[1, 2, 3, [4, 5, 6] , 7, [6, 7, [4, 5]]]
 
